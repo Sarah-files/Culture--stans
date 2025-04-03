@@ -1,7 +1,7 @@
 ---
 permalink: /
 ---
-# **Glossaire**
+# **Documentation**
 > How this project works and how to maintain your own
 
 <div align="center">
