@@ -17,11 +17,10 @@ Fandom, stans, culture.
 
 
 
-## Menu
+## MENU
 
-Some info on how to make a site like this and how it works.
 
-- [About](about.md)
+- [Termes générales](about.md)
 - [Features](features.md)
 - [Limitations](limitations.md)
 - [What about a Wiki?](wiki.md)
