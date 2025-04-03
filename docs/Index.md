@@ -8,7 +8,7 @@ permalink: /
 
 ## A PROPOS
 
-Ce glossaire est destiné au cours de langage et société. Dans le cadre du dossier à faire et concernant le sujet, je profite de ce devoir en cultures numériques avancées pour créer un glossaire. Cela va permettre de repertorier les termes, des exemples hors observations et servir comme document annexe pour le dossier de langage et société.
+Ce glossaire est destiné au cours de langage et société. Dans le cadre du dossier à faire et concernant le sujet, je profite de ce devoir en cultures numériques avancées pour créer un glossaire. Cela va permettre de repertorier les termes propre au sujet, des exemples hors observations et servir comme document annexe pour le dossier de langage et société.
 
 
 ## How to use this project
