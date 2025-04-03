@@ -6,7 +6,9 @@ permalink: /
 
 
 
-## *A PROPOS*
+
+
+## A PROPOS
 
 Ce glossaire est destiné au cours de langage et société. Dans le cadre du dossier à faire et concernant le sujet, je profite de ce devoir en cultures numériques avancées pour créer un glossaire. Le dossier portant sur la culture stans. 
 
