@@ -1,8 +1,8 @@
 ---
 permalink: /
 ---
-# **Documentation**
-> How this project works and how to maintain your own
+# **Glossaire**
+> Liste de mots utiles à la compréhension du sujet 
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
