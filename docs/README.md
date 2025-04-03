@@ -1,6 +1,4 @@
----
-permalink: /
----
+
 # **Glossaire**
 > Liste de mots utiles à la compréhension du sujet 
 
