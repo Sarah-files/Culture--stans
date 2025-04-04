@@ -13,7 +13,7 @@ Ce glossaire est destiné au cours de langage et société. Dans le cadre du dos
 
 ## Mots-clés
 
-[Fandom](termes.md), [stans](termes.md), [culture](termes.md), [code switching](termes.md)
+[Fandom](termes.md), [stans](termes.md), [culture](termes.md), [code switching](notions.md)
 
 
 
