@@ -21,7 +21,7 @@ Ce glossaire est destiné au cours de langage et société. Dans le cadre du dos
 
 
 * [Termes](termes.md)
-* [Notions](features.md)
+* [Notions](notions.md)
 
 
 
