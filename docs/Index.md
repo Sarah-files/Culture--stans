@@ -13,7 +13,7 @@ Ce glossaire est destiné au cours de langage et société. Dans le cadre du dos
 
 ## Mots-clés
 
-Fandom, stans, culture.
+[Fandom](termes.md), [stans](termes.md), [culture](termes.md)
 
 
 
