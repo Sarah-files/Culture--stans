@@ -20,7 +20,7 @@ Fandom, stans, culture.
 ## MENU
 
 
-- [Termes générales](about.md)
+- [Termes générales](termes.md)
 - [Features](features.md)
 - [Limitations](limitations.md)
 - [What about a Wiki?](wiki.md)
