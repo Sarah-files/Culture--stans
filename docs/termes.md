@@ -1,6 +1,7 @@
-# **Termes générales**
+# Termes générales
 
 
 
 
-# FANDOM 
+# **FANDOM :**
+- Communauté de fans, qui partagent le même centre d'intérêt
