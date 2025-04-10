@@ -18,3 +18,17 @@
 
 # Stan : 
 * Fait référence à la chanson du rappeur américain EMINEM et est un terme qui se substitue à celui de fan. Désigne une personne qui aime un artiste. 
+
+
+
+
+
+
+
+
+
+
+
+|Ship  | couple  |
+|--|--|
+| Chair | Gossip girl  |
