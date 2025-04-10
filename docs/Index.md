@@ -11,13 +11,13 @@ permalink: /
 Ce glossaire est destiné au cours de langage et société. Dans le cadre du dossier à faire et concernant le sujet, je profite de ce devoir en cultures numériques avancées pour créer un glossaire. Cela va permettre de repertorier les termes propre au sujet, de classer les termes avec les notions correspondante et servir comme document annexe pour le dossier de langage et société.
 
 
-## Mots-clés
+### Mots-clés
 
 [Fandom](termes.md), [stans](termes.md), [culture](termes.md), [code switching](notions.md)
 
 
 
-## MENU
+#### MENU
 
 
 * [Termes](termes.md)
@@ -25,7 +25,7 @@ Ce glossaire est destiné au cours de langage et société. Dans le cadre du dos
 
 
 
-## Bibliographie
+##### Bibliographie
 
 
 
