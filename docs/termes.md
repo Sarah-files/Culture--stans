@@ -1,4 +1,4 @@
-# **<u>Termes générales</u>**
+# **Termes générales**
 
 
 
