@@ -1,6 +1,6 @@
 
 
-|  : |Termes générales |
+|    |Termes générales |
 |--|--|
 | **Culture** : | Dans le cadre du sujet, la culture est considéré comme une connaissance commune qui relie une communauté d'individus.|
 | **Fandom** : |  Communauté de fans qui partagent le même centre d’intérêt. |
