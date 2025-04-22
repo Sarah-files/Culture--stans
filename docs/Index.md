@@ -28,6 +28,13 @@ Ce glossaire est destiné au cours de langage et société. Dans le cadre du dos
 
 ##### **Bibliographie**
 
+* [Journals.openedition](https://journals.openedition.org/linx/237)
+* [Cairn](https://shs.cairn.info/revue-langage-et-societe-2010-1-page-113?lang=fr#s2n5) 
+* [Unilim](https://www.unilim.fr/interfaces-numeriques/850)
+* [Dumas](https://dumas.ccsd.cnrs.fr/dumas-04052202v1)
+* [Journals.openedition](https://journals.openedition.org/ticetsociete/1500)
+
+
 
 
 
