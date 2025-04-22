@@ -9,3 +9,5 @@
 
 
 Couple populaire de la série _Gossip Girl_
+
+Ils sont un des couples phares de la série. Il existe sur youtube des vidéos retraçant leur histoire, les fans de la série pour nommer leur couple ont fait une contraction entre leur deux prénoms, ce qui a donné chair. 
